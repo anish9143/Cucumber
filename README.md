@@ -1,7 +1,7 @@
 # Cucumber 
 This is a simple overview and basics of cucumber.
 Cucumber
-  its a tool which implements BDD framework
+  is a tool which implements BDD framework
 	it uses simple english text which is easy to understand and readability is better 
 	it used Gherkin language which is simple english keywords
 		Given 
